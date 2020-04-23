@@ -52,6 +52,9 @@ box-shadow: 4px 0px 4px 0px rgba(0,0,0,0.5);*/
 .economist-logo { 
     margin:0 0 40px -15px;
 }
+.economist-logo img{ 
+    display: none;
+}
 .economist-logo h2 { 
     font-size:1.35em; 
     font-weight:700; 
